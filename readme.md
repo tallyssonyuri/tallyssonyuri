@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  Atualmente estudo Ciência da Computação no <strong>Centro Universitário FEI</strong> e sou estagiário em desenvolvimento de software na <strong>cPortal Automação e Sistemas</strong>.
+  🎓 Atualmente estudo Ciência da Computação no <strong>Centro Universitário FEI</strong> e sou estagiário em desenvolvimento de software na <strong>cPortal Automação e Sistemas</strong>.
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  📚 No campo acadêmico, tenho experiência com projetos que envolvem automações em <strong>Python</strong> e desenvolvimento de sistemas em <strong>C/C++</strong>.
+  📚 No ramo acadêmico, tenho experiência com projetos que envolvem automações em <strong>Python</strong> e desenvolvimento de sistemas em <strong>C/C++</strong>.
 </p>
 
 <p align="center">
-  🌱 Atualmente, estou focado em melhorar minhas habilidades como desenvolvedor full-stack e sempre em busca de novos desafios e aprendizados.
+  🚀 Estou focado em melhorar minhas habilidades como desenvolvedor full-stack e sempre em busca de novos desafios e aprendizados.
 </p>
 
 ---
