@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📚 No ramo acadêmico, tenho experiência com projetos que envolvem automações em <strong>Python</strong> e desenvolvimento de sistemas em <strong>C/C++</strong>.
+  📚 No ramo acadêmico, tenho experiência com projetos que envolvem automações em <strong>Python</strong> e desenvolvimento de sistemas em <strong>C/C++ e Java</strong>.
 </p>
 
 <p align="center">
