@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💻 No ambiente profissional, participo ativamente do planejamento, análise e desenvolvimento de soluções tanto no backend (<strong>PHP, Laravel e Node.js</strong>) quanto no frontend (<strong>JavaScript, React.js, Next.js, Vue.js, HTML, CSS e Flutter</strong>).
+  💻 No ambiente profissional, participo ativamente do planejamento, análise e desenvolvimento de soluções tanto no backend (<strong>PHP, Laravel e Node.js</strong>) quanto no frontend (<strong>JavaScript, TypeScript, React.js, Next.js, Vue.js, HTML, CSS e Flutter</strong>).
 </p>
 
 <p align="center">
