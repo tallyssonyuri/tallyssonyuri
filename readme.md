@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  🎓 Atualmente estudo Ciência da Computação no <strong>Centro Universitário FEI</strong> e sou estagiário em desenvolvimento de software na <strong>cPortal Automação e Sistemas</strong>.
+  🎓 Atualmente estudo Ciência da Computação no <strong>Centro Universitário FEI</strong> e sou Desenvolvedor Full Stack na <strong>cPortal Automação e Sistemas</strong>.
 </p>
 
 <p align="center">
