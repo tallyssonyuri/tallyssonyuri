@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  💻 No ambiente profissional, atuo em equipe com as tecnologias <strong>Python + Flask</strong> no back-end. Já no front-end, utilizamos <strong>TypeScript, React, React-native, Angular e Flutter</strong>.<br>
+  💻 No ambiente profissional, atuo em equipe com as tecnologias <strong>Python + Flask</strong> no back-end. No front-end, utilizamos <strong>TypeScript, React, React-native, Angular e Flutter</strong>.<br>
 </p>
 
 <p align="center">
-  Também no decorrer da minha carreira profissional, participei de projetos utilizando <strong>PHP + Laravel</strong> com foco em back-end, e no front-end tecnologias como <strong>Vue, React, Next e Flutter.</strong>
+  Também no decorrer da minha carreira profissional, participei de projetos em outras empresas utilizando <strong>PHP + Laravel e Node.js</strong> com foco em back-end, e no front-end tecnologias como <strong>Vue, React, Next e Flutter.</strong>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  Throughout my career, I have also participated in projects using <strong>PHP + Laravel</strong> focused on back-end development, and on the front end, technologies such as <strong>Vue, React, Next, and Flutter</strong>.
+  Throughout my career, I have also participated in projects using <strong>PHP + Laravel and Node.js</strong> focused on back-end development, and on the front end, technologies such as <strong>Vue, React, Next, and Flutter</strong>.
 </p>
 
 <p align="center">
