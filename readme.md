@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  💻 No ambiente profissional, atuo em equipe com as tecnologias <strong>Python + Jupyter Notebook</strong> no Back-End e SQL em consulta de dados<br>
+  💻 No ambiente profissional, atuo em equipe com as tecnologias <strong>Python + Jupyter Notebook</strong> no Back-End e SQL em consulta de dados.<br>
 </p>
 
 <p align="center">
