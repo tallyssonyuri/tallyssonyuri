@@ -15,7 +15,7 @@
 ---
 <strong>Versão em Português</strong>
 <p align="center">
-  🎓 Atualmente estudo Ciência da Computação no <strong>Centro Universitário FEI</strong> e sou Desenvolvedor Back-End no <strong>Itaú Unibanco</strong>.
+  🎓 Atualmente estudo Ciência da Computação na <strong>Universidade São Judas Tadeu</strong> e sou estagiário em tecnologia no <strong>Itaú Unibanco</strong>.
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 <strong>English Version</strong>
 
 <p align="center">
-  🎓 I am currently studying Computer Science at <strong>Centro Universitário FEI</strong> and working as a Back-End Developer at <strong>Itaú Unibanco</strong>.
+  🎓 I am currently studying Computer Science at <strong>Universidade São Judas Tadeu</strong> and working as a technology intern at <strong>Itaú Unibanco</strong>.
 </p> 
 
 <p align="center">
